@@ -27,4 +27,4 @@ To use the calculator, simply click on the buttons to input your desired numbers
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](/path/to/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](/path/to/LICENSE) file for more information.Got a gist of cicd through ciricle ci
